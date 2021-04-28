@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\bin\Debug\netcoreapp3.1\CupSwapping.exe
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\bin\Debug\netcoreapp3.1\CupSwapping.deps.json
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\bin\Debug\netcoreapp3.1\CupSwapping.runtimeconfig.json
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\bin\Debug\netcoreapp3.1\CupSwapping.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\bin\Debug\netcoreapp3.1\CupSwapping.dll
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\bin\Debug\netcoreapp3.1\CupSwapping.pdb
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\obj\Debug\netcoreapp3.1\CupSwapping.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\obj\Debug\netcoreapp3.1\CupSwapping.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\obj\Debug\netcoreapp3.1\CupSwapping.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\obj\Debug\netcoreapp3.1\CupSwapping.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\obj\Debug\netcoreapp3.1\CupSwapping.dll
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\obj\Debug\netcoreapp3.1\CupSwapping.pdb
+C:\Users\Yasmin\source\repos\CupSwapping\CupSwapping\obj\Debug\netcoreapp3.1\CupSwapping.genruntimeconfig.cache
